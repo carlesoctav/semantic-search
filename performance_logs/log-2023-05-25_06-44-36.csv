@@ -1,0 +1,2 @@
+epoch,loss,tf.__operators__.getitem_1_loss,tf.__operators__.getitem_loss,val_acc_en_id,val_acc_id_en,val_avg_acc,val_loss,val_tf.__operators__.getitem_1_loss,val_tf.__operators__.getitem_loss
+0,0.15266667306423187,0.07634559273719788,0.07632127404212952,9.765625e-05,9.765625e-05,9.765625e-05,0.16369149088859558,0.08184574544429779,0.08184576034545898
