@@ -33,4 +33,4 @@ Please refer to the training model architecture in the image below:
 5. `performance_logs` stores the logs of the training process.
 
 
-Also, take a look at our first model that is live on [carlesoctav/en-id-parallel-sentences-mpnet-dot-v1](https://huggingface.co/carlesoctav/en-id-parallel-sentences-mpnet-dot-v1).
+Also, take a look at our first model that is live on [carlesoctav/multi-qa-en-id-mMiniLMv2-L6-H384](https://huggingface.co/carlesoctav/multi-qa-en-id-mMiniLMv2-L6-H384).
